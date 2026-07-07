@@ -22,7 +22,7 @@ const ProjectsSection = ({ config }) => {
           />
         </svg>
       ),
-      githubUrl: "https://github.com/CaleHenitsue/MyExpenseTracker",
+      githubUrl: "https://github.com/Kyaw-Zay/MyExpenseTracker",
       liveUrl: "https://myexpensetracker2025.netlify.app/",
     },
     {
@@ -45,8 +45,8 @@ const ProjectsSection = ({ config }) => {
           />
         </svg>
       ),
-      githubUrl: "https://github.com/CaleHenitsue/petalstars-bookstore",
-      liveUrl: "https://calehenitsue.github.io/petalstars-bookstore/",
+      githubUrl: "https://github.com/Kyaw-Zay/petalstars-bookstore",
+      liveUrl: "https://kyaw-zay.github.io/petalstars-bookstore/",
     },
     {
       title: "Todo List App ",
@@ -68,7 +68,7 @@ const ProjectsSection = ({ config }) => {
           />
         </svg>
       ),
-      githubUrl: "https://github.com/CaleHenitsue/mvc-todo",
+      githubUrl: "https://github.com/Kyaw-Zay/mvc-todo",
       liveUrl: "https://mvc-todo.netlify.app/",
     },
 
@@ -92,7 +92,7 @@ const ProjectsSection = ({ config }) => {
           />
         </svg>
       ),
-      githubUrl: "https://github.com/CaleHenitsue/My-Portfolio",
+      githubUrl: "https://github.com/Kyaw-Zay/My-Portfolio",
       liveUrl: "https://calehenitsue.github.io/My-Portfolio/", // or your Vercel/Netlify link
     },
   ];
