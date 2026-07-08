@@ -21,7 +21,7 @@ const defaultConfig = {
     "A Developer Who Believes in Stories, Choices, and Possibilities",
   about_title: "About Me",
   about_text:
-    "I am an international Information Technology student with a strong foundation in programming and web development. My technical expertise includes Python, JavaScript, React, and Firebase, and I am passionate about building efficient, scalable, and user-friendly digital solutions.",
+    "I'm a fresh graduate with a strong interest in web development. I have experience with HTML, CSS, JavaScript, Python, React, Nextjs and MySQL through academic and personal projects. I'm eager to start my career, gain real-world experience, and grow as a software developer.",
   projects_title: "My Work",
   skills_title: "What I Bring",
   contact_title: "Let's Connect",

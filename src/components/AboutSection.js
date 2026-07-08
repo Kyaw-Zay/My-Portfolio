@@ -21,7 +21,7 @@ const AboutSection = ({ config }) => {
           >
             {config.about_text}
           </p>
-          <p
+          {/* <p
             className="text-lg text-secondary leading-relaxed mb-8"
             style={{ fontSize: `${config.font_size * 1.125}px` }}
           >
@@ -30,7 +30,7 @@ const AboutSection = ({ config }) => {
             long-term goal is to grow into a full-stack developer who can build
             reliable, scalable, and user-centered web applications from end to
             end.
-          </p>
+          </p> */}
         </div>
       </div>
     </section>
